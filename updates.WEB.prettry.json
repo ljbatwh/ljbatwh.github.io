@@ -1,0 +1,3920 @@
+{
+    "MFDs": [
+        {
+            "AppVersion": "60.1.142",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.2/EliteTi-18.2-60.1.142-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Products/Fishfinder-Chartplotter/elite-5-ti-en-us.aspx",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Elite-12Ti",
+                "Elite-9Ti",
+                "Elite-7Ti",
+                "Elite-5Ti"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 8080,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Elite-12Ti MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 13014,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Elite-9Ti MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 22515,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Elite-7Ti MFD"
+                }
+            ],
+            "ReleaseDate": "2018-08-31T00:00:00Z",
+            "Size": 101898240,
+            "Version": "18.2",
+            "_Comment": "Elite-Ti 5-7-9-12",
+            "sha1": "2815f3f982481cfa616dda161638fa120684d590"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/EliteTi2-20.0-63.1.291-Standard-1.upd",
+            "Models": [
+                "Elite-7Ti2",
+                "Elite-9Ti2",
+                "Elite-12Ti2"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 11263,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Elite-7Ti2 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 4778,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Elite-9Ti2 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 16276,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Elite-12Ti2 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 136509440,
+            "Version": "20.0",
+            "_Comment": "Elite-Ti2",
+            "sha1": "9bc012d861a9c585da50f527a942ff8efcfe2228"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/GO5_XSE-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Products/GO-series/Simrad-GO5-XSE-with-med-hi-downscan-transducer-en-gb.aspx",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "GO5 XSE"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 16417,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "GO5 XSE MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 137984000,
+            "Version": "20.0",
+            "_Comment": "GO5 XSE",
+            "sha1": "bb440b394ac248703e1407365617b1cb493a4da5"
+        },
+        {
+            "AppVersion": "59.1.72",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/NOS59/GO7-5.0-59.1.72-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/GO7-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "GO7"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 7940,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "GO7 MFD"
+                }
+            ],
+            "ReleaseDate": "2018-03-14T00:00:00Z",
+            "Size": 135761920,
+            "Version": "5.0",
+            "_Comment": "GO7",
+            "sha1": "03f0646643e6361f945f01416e76e38759a05246"
+        },
+        {
+            "AppVersion": "61.1.155",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.3/GO7_XSE-18.3-61.1.155-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Products/GO-series/Simrad-GO7-XSE-Chartplotter-Multifunction-Display-en-us.aspx",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "GO7 XSE"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 29761,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "GO7 XSE MFD"
+                }
+            ],
+            "ReleaseDate": "2019-04-18T00:00:00Z",
+            "Size": 148080640,
+            "Version": "18.3",
+            "_Comment": "GO7 XSE",
+            "sha1": "e8b6f88ece3ad2457ba079501368bedc06ab52aa"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/GO7_XSR_GO12_XSE-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/GO12-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "GO7 XSR",
+                "GO12 XSE"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 16451,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "GO7 XSR MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 29046,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "GO12 XSE MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 203335680,
+            "Version": "20.0",
+            "_Comment": "GO7 XSR-GO12 XSE",
+            "sha1": "2bb615fb7b0da787dbe06a58f71738193c70e50c"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/GO9_XSE-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/GO9-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "GO9 XSE"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 18218,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "GO9 XSE MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 139028480,
+            "Version": "20.0",
+            "_Comment": "GO9 XSE",
+            "sha1": "948caaa22c80d2ddb11bb46b7429570b7c9968e5"
+        },
+        {
+            "AppVersion": "2.0.45.0.29",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-CPU-Hydra/H5000-CPU-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "H5000 CPU"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 190,
+                    "ManCode": 381,
+                    "ProductCode": 246,
+                    "SWVersionFilter": "(\\d).(\\d).(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "H5000 CPU"
+                }
+            ],
+            "NoDownload": true,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "Version": "2.0",
+            "_Comment": "H5000 CPU"
+        },
+        {
+            "AppVersion": "36.68.282",
+            "Brand": "Lowrance",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/HDS-Gen1-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "HDS"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 26039,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 5X MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 14800,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 5 MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 8175,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 7 MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 9129,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 8 MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 19378,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 10 MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 26536,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 5M MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 17210,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 7M MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 29085,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 8M MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 140,
+                    "ProductCode": 22157,
+                    "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+                    "_Comment": "HDS 10M MFD"
+                }
+            ],
+            "NoDownload": true,
+            "ReleaseDate": "2012-02-09T00:00:00Z",
+            "Version": "4.1",
+            "_Comment": "HDS"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/HDS_Carbon-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/HDS-Carbon-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "HDS-16 Carbon",
+                "HDS-12 Carbon",
+                "HDS-9 Carbon",
+                "HDS-7 Carbon"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 4084,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": " HDS-16 Carbon MFD "
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 22270,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-12 Carbon MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 1691,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-9 Carbon MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 4965,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-7 Carbon MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 220733440,
+            "Version": "20.0",
+            "_Comment": "HDS Carbon",
+            "sha1": "35621eff36e103fa20bd92d9c577f57fec094222"
+        },
+        {
+            "AppVersion": "45.2.200",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/HDS_Gen2-4.0-45.2.200-Standard-4.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/HDS-Gen2-40/",
+                    "language": "en"
+                }
+            ],
+            "LanguagePack": "Standard",
+            "Models": [
+                "HDS-5",
+                "HDS-7",
+                "HDS-8",
+                "HDS-10"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 17298,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-5X MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 27277,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-5 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 5641,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-5M MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 23920,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-7 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 6928,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-7M MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 12588,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-8 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 25037,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-8M MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 772,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-10 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 9315,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-10M MFD"
+                }
+            ],
+            "ReleaseDate": "2015-02-28T00:00:00Z",
+            "Size": 139264000,
+            "Version": "4.0",
+            "_Comment": "HDS Gen2",
+            "sha1": "66aee35cb4ac350450b5ebb847ecebf8ed4dbb02"
+        },
+        {
+            "AppVersion": "54.2.46",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/NOS54/HDS_Gen2_Touch-6.0-54.2.46-Standard-4.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/G2T50/",
+                    "language": "en"
+                }
+            ],
+            "LanguagePack": "Standard",
+            "Models": [
+                "HDS-7T",
+                "HDS-9T",
+                "HDS-12T"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 791,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-7T MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 17761,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-9T MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 20081,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-12T MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 22181,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-7MT MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 26300,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-9MT MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 15650,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS-12MT MFD"
+                }
+            ],
+            "ReleaseDate": "2016-08-02T00:00:00Z",
+            "Size": 141004800,
+            "Version": "6.0",
+            "_Comment": "HDS Gen2 Touch",
+            "sha1": "e8da430a52bab424bc752988352cd99b778afb73"
+        },
+        {
+            "AppVersion": "60.1.142",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.2/HDS_Gen3-18.2-60.1.142-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://downloads.lowrance.com/software/index.html?r=1366",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "HDS3-7",
+                "HDS3-9",
+                "HDS3-12"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 1771,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS3-7 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 9382,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS3-9T MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 2165,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS3-12T MFD"
+                }
+            ],
+            "ReleaseDate": "2018-08-31T00:00:00Z",
+            "Size": 139438080,
+            "Version": "18.2",
+            "_Comment": "HDS Gen3",
+            "sha1": "013c4011b605dee28195c91da023362fd8bdfe7a"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/HDS_Live-20.0-63.1.291-Standard-1.upd",
+            "Models": [
+                "HDS Live-7",
+                "HDS Live-9",
+                "HDS Live-12",
+                "HDS Live-16"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 18328,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS Live-7"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 2887,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS Live-9 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 26332,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS Live-12 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 140,
+                    "ProductCode": 17291,
+                    "SWVersionFilter": "^\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "HDS Live-16"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 204431360,
+            "Version": "20.0",
+            "_Comment": "HDS Live",
+            "sha1": "44451291229b92cc95c7f449ac09a499b6a8089e"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/IDS_Display-20.0-63.1.291-Standard-1.upd",
+            "Models": [
+                "IDS Display 9",
+                "IDS Display 12"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 275,
+                    "ProductCode": 65529,
+                    "_Comment": "IDS Display 9/12 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 223375360,
+            "Version": "20.0",
+            "_Comment": "IDS Display 9-12",
+            "sha1": "3d0c423b581a9140d3d07b03662a823c3956b060"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/IDS_Hub-20.0-63.1.291-Standard-1.upd",
+            "Models": [
+                "IDS Hub"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 275,
+                    "ProductCode": 65529,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "IDS Hub"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 79646720,
+            "Version": "20.0",
+            "_Comment": "IDS Hub",
+            "sha1": "4b3d51385b053b9d2c444058f6399f03a1449957"
+        },
+        {
+            "AppVersion": "62.1.114",
+            "File": "http://s3.amazonaws.com/navicoupdate/19.1/LiveSight-19.1-62.1.114-Standard-1.riw",
+            "FullURLs": [
+                {
+                    "URL": "https://downloads.lowrance.com/",
+                    "language": "en"
+                }
+            ],
+            "IsASonar": true,
+            "Models": [
+                "LiveSight transducer"
+            ],
+            "ReleaseDate": "2019-05-30T00:00:00Z",
+            "Size": 37438784,
+            "Version": "19.1",
+            "_Comment": "LiveSight transducer",
+            "sha1": "64af4b4747f41ea480b02e3244011678c29dca85"
+        },
+        {
+            "AppVersion": "46.3.1",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/NSE-4.0-46.3.1-9213-r35-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NSE-Software-v4/",
+                    "language": "en"
+                }
+            ],
+            "LanguagePack": "Standard",
+            "Models": [
+                "NSE 8",
+                "NSE 12"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 17589,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSE 8 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 12175,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSE 12 MFD"
+                }
+            ],
+            "ReleaseDate": "2014-10-10T00:00:00Z",
+            "Size": 164239360,
+            "Version": "4.0",
+            "_Comment": "NSE",
+            "sha1": "26745e2ec7120fe1a9849abbed31749181544169"
+        },
+        {
+            "AppVersion": "37.225",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/NSO-1.3-37.225-14875-r5-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NSO-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "NSO"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 21129,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO MFD"
+                }
+            ],
+            "ReleaseDate": "2013-12-01T00:00:00Z",
+            "Size": 71895040,
+            "Version": "1.3",
+            "_Comment": "NSO",
+            "sha1": "239bb4cef510cedad1361d2933bdfd4308638b57"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/NSO_evo2-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NSO-evo-2-Software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "NSO evo2"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 16735,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO evo2 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 207953920,
+            "Version": "20.0",
+            "_Comment": "NSO evo2",
+            "sha1": "f384933483540ca06661e046ba8c39d249babec5"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/NSO_evo3-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NSO-evo-3-Software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "NSO16 evo3",
+                "NSO19 evo3",
+                "NSO24 evo3"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 27169,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO16 evo3 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 4518,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO19 evo3 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 12718,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO24 evo3 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 206991360,
+            "Version": "20.0",
+            "_Comment": "NSO evo3",
+            "sha1": "be45332bd39cc9cc51537cec42f7aaf2b16b59e2"
+        },
+        {
+            "AppVersion": "63.1.206",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/19.3/NSO_evo3S_MFD-19.3-63.1.206-Standard-1.upd",
+            "Models": [
+                "NSO16 evo3S MFD",
+                "NSO19 evo3S MFD",
+                "NSO24 evo3S MFD"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 26962,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO16 evo3S MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 9568,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO19 evo3S MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 95,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO24 evo3S MFD"
+                }
+            ],
+            "ReleaseDate": "2020-02-14T00:00:00Z",
+            "Size": 268830720,
+            "Version": "19.3",
+            "_Comment": "NSO evo3S MFD",
+            "sha1": "1de209e5717c87d380166d1af1e65d070ea76ceb"
+        },
+        {
+            "AppVersion": "63.1.243",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/NSO_evo3S_MPU-20.0-63.1.243-Standard-1.upd",
+            "Models": [
+                "NSO evo3S MPU"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 27828,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSO3S MPU MFD"
+                }
+            ],
+            "ReleaseDate": "2020-03-24T00:00:00Z",
+            "Size": 267909120,
+            "Version": "20.0",
+            "_Comment": "NSO evo3S MPU",
+            "sha1": "dea28079572f862e4f08f58ba40b2c3c36dc3615"
+        },
+        {
+            "AppVersion": "46.2.24",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/NSS-3.0-46.2.24-28289-r4-Standard-4.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NSS-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "NSS-7",
+                "NSS-8",
+                "NSS-12"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 27032,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSS-7 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 13118,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSS-8 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 15630,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSS-12 MFD"
+                }
+            ],
+            "ReleaseDate": "2014-07-14T00:00:00Z",
+            "Size": 69877760,
+            "Version": "3.0",
+            "_Comment": "NSS",
+            "sha1": "704e43e479fe0dfdc6bbe1841c551e9414fc63f6"
+        },
+        {
+            "AppVersion": "61.1.155",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.3/NSS_evo2-18.3-61.1.155-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NSS-evo-2/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "NSS12 evo2",
+                "NSS7 evo2",
+                "NSS9 evo2",
+                "NSS16 evo2",
+                "NSS7m evo2",
+                "NSS9m evo2"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 17648,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSS12 evo2 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 20487,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSS7 evo2 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 22658,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSS9 evo2 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 8631,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NSS15 evo2 MFD"
+                }
+            ],
+            "ReleaseDate": "2019-04-15T00:00:00Z",
+            "Size": 149084160,
+            "Version": "18.3",
+            "_Comment": "NSS evo2",
+            "sha1": "f3bfbbd8445daa800e7dbb49f5554db9a6e26167"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/NSS_evo3-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NSS-evo3-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "NSS16 evo3",
+                "NSS12 evo3",
+                "NSS7 evo3",
+                "NSS9 evo3"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 16088,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NR16 ev3 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 8435,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NR12 ev3 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 12202,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NR7 ev3 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 13879,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "NR9 ev3 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 207708160,
+            "Version": "20.0",
+            "_Comment": "NSS evo3",
+            "sha1": "e57fa8d18e79f576b8eeeee8c79a5aabf13328ac"
+        },
+        {
+            "AppVersion": "61.1.164",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.3/R2000_R3000-18.3.1-61.1.164-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.navico-commercial.com/en/Support/Downloads/R3016-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "R3016",
+                "R2009"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 17541,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "R3016 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 8797,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "R2009 MFD"
+                }
+            ],
+            "ReleaseDate": "2019-11-15T00:00:00Z",
+            "Size": 106373120,
+            "Version": "18.3.1",
+            "_Comment": "R2009, R3016",
+            "sha1": "59cc90a432f759c94de164891cd5e7d90f264e2f"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/S2000-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/S2009-S2016-Software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "S2009",
+                "S2016"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 23192,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "S2009 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 7114,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "S2016 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 135813120,
+            "Version": "20.0",
+            "_Comment": "S2009, S2016",
+            "sha1": "a3509a2ed086127f6e62be65253f1428f74b7b41"
+        },
+        {
+            "AppVersion": "57.5.39",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/NOS57.5/S3009-1.0.0-57.5.39-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.navico-commercial.com/en-US/Products/Echosounders/Simrad-S3009-IMO-Echosounder_en-us.aspx",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "S3009"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 1857,
+                    "ProductCode": 17982,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "S3009 MFD"
+                }
+            ],
+            "ReleaseDate": "2018-01-04T00:00:00Z",
+            "Size": 150333440,
+            "Version": "1.0.0",
+            "_Comment": "S3009",
+            "sha1": "f95042d244a1696b34336921b51040dd9d78887b"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/S5100-20.0-63.1.291-Standard-1.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/S5100-software/",
+                    "language": "en"
+                }
+            ],
+            "IsASonar": true,
+            "Models": [
+                "S5100"
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 52092224,
+            "Version": "20.0",
+            "_Comment": "S5100",
+            "sha1": "6fb949b45eb97e8f39eaa51964ca632ecdf02639"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Lowrance",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/Sonar_Hub-20.0-63.1.291-Standard-1.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/SonarHub-software/",
+                    "language": "en"
+                }
+            ],
+            "IsASonar": true,
+            "Models": [
+                "Sonar Hub"
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 31879744,
+            "UpdateMissingVersion": true,
+            "Version": "20.0",
+            "_Comment": "Sonar Hub",
+            "sha1": "7ba64927e591ec3d69f973e98bae867b94316c13"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Simrad",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/StructureScan3D-20.0-63.1.291-Standard-1.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://downloads.simrad-yachting.com/software/index.html?r=2743",
+                    "language": "en"
+                }
+            ],
+            "IsASonar": true,
+            "Models": [
+                "StructureScan 3D"
+            ],
+            "ReleaseDate": "2020-05-19T00:00:00Z",
+            "Size": 52030784,
+            "Version": "20.0",
+            "_Comment": "StructureScan 3D",
+            "sha1": "11ff38c2349d65a9b4e52a497ee7fbca094f0bf5"
+        },
+        {
+            "AppVersion": "46.1.139",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/Zeus_Touch-2.0-46.1.139-28533-r2-Standard-2.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus-Touch-7/Zeus-Touch-v2-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "LanguagePack": "Standard",
+            "Models": [
+                "T7",
+                "T8",
+                "T12"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 10085,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "T7 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 18197,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "T8 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 781,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "T12 MFD"
+                }
+            ],
+            "ReleaseDate": "2014-08-29T00:00:00Z",
+            "Size": 70522880,
+            "Version": "2.0",
+            "_Comment": "T",
+            "sha1": "889612dda1a4dccc75f462ed473ecda8201e2294"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Mercury",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/VV403-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "VesselView 403"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 144,
+                    "ProductCode": 15162,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "VV403"
+                }
+            ],
+            "ReleaseDate": "2020-05-11T00:00:00Z",
+            "Size": 42536960,
+            "Version": "20.0",
+            "_Comment": "VesselView 403",
+            "sha1": "b5e41b73a7d2ea4f81107c96f4f6e7f959e57fb2"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Mercury",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/VV502-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "VesselView 502"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 144,
+                    "ProductCode": 6529,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "VV502 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-11T00:00:00Z",
+            "Size": 131717120,
+            "Version": "20.0",
+            "_Comment": "VesselView 502",
+            "sha1": "bf679096ae0c25c838c44eba66164f45691dab5b"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Mercury",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/VV502-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "VesselView 702"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 144,
+                    "ProductCode": 5383,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "VV702 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-11T00:00:00Z",
+            "Size": 131717120,
+            "Version": "20.0",
+            "_Comment": "VesselView 702",
+            "sha1": "bf679096ae0c25c838c44eba66164f45691dab5b"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Mercury",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/VV703-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "VesselView 703"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 144,
+                    "ProductCode": 12446,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "VV703    MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-11T00:00:00Z",
+            "Size": 202547200,
+            "Version": "20.0",
+            "_Comment": "VesselView 703",
+            "sha1": "fa7479aba5c7eb5fece6bb2c041170fc6288058a"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "Mercury",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/VV903-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "VesselView 903"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 144,
+                    "ProductCode": 8917,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "VV903 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-11T00:00:00Z",
+            "Size": 131696640,
+            "Version": "20.0",
+            "_Comment": "VesselView 903",
+            "sha1": "9dc2356d039a783b0074f6675d490af7ffc68b1f"
+        },
+        {
+            "AppVersion": "43.579",
+            "Brand": "Mercury",
+            "File": "http://s3.amazonaws.com/navicoupdate/NOS43/VesselView4-5.0-43.579-32766-r1-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "VesselView4"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 144,
+                    "ProductCode": 28311,
+                    "SWVersionFilter": "^\\w+\\s\\d{1}\\d{1}(\\d{2})(\\d{3})\\d{1}\\s+",
+                    "_Comment": "VV4 MFD"
+                }
+            ],
+            "ReleaseDate": "2015-09-28T00:00:00Z",
+            "Size": 31160320,
+            "Version": "5.0",
+            "_Comment": "VesselView4",
+            "sha1": "f467c6ae23f2b5f5567a9cc8b1dafa5f479fd5fc"
+        },
+        {
+            "AppVersion": "43.579",
+            "Brand": "Mercury",
+            "File": "http://s3.amazonaws.com/navicoupdate/NOS43/VesselView7-5.0-43.579-32766-r1-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "VesselView7"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 144,
+                    "ProductCode": 14875,
+                    "SWVersionFilter": "^\\w+\\s\\d{1}\\d{1}(\\d{2})(\\d{3})\\d{1}\\s+",
+                    "_Comment": "VV7 MFD"
+                }
+            ],
+            "ReleaseDate": "2015-09-28T00:00:00Z",
+            "Size": 68126720,
+            "Version": "5.0",
+            "_Comment": "VesselView7",
+            "sha1": "8085639854d44ab053daa7427e9d0cd0c02407ea"
+        },
+        {
+            "AppVersion": "61.1.155",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.3/Vulcan5_FS-18.3-61.1.155-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Vulcan-5/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Vulcan 5"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 25492,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Vulcan 5 MFD"
+                }
+            ],
+            "ReleaseDate": "2019-04-18T00:00:00Z",
+            "Size": 108605440,
+            "Version": "18.3",
+            "_Comment": "Vulcan 5",
+            "sha1": "5a0e5efc0c2b0f6522dd72521f78eec88cffd288"
+        },
+        {
+            "AppVersion": "59.1.72",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/NOS59/Vulcan7-4.5-59.1.72-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Vulcan-7/Vulcan-7-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Vulcan 7"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 3029,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Vulcan 7 MFD"
+                }
+            ],
+            "ReleaseDate": "2018-03-14T00:00:00Z",
+            "Size": 133632000,
+            "Version": "4.5",
+            "_Comment": "Vulcan 7",
+            "sha1": "5688bd2b541b91b5e2107cb53e3a491e89e41c5b"
+        },
+        {
+            "AppVersion": "61.1.155",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.3/Vulcan7_FS-18.3-61.1.155-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/Products/Vulcan-7FS/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Vulcan 7 FS"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 27906,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Vulcan 7 FS MFD"
+                }
+            ],
+            "ReleaseDate": "2019-04-15T00:00:00Z",
+            "Size": 146728960,
+            "Version": "18.3",
+            "_Comment": "Vulcan 7 FS",
+            "sha1": "4d298f46277f425e73884bf56115b02d21d4f73a"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/Vulcan_R-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Vulcan-12/Vulcan-12-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Vulcan 12R",
+                "Vulcan 7R"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 26704,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Vulcan 12MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 8265,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Vulcan 7RMFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 200663040,
+            "Version": "20.0",
+            "_Comment": "Vulcan 7R-Vulcan 12R",
+            "sha1": "e2419878b6ca7604693766460cdeea49c507f4fb"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/Vulcan9-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Vulcan-9/Vulcan-9-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Vulcan 9"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 27612,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Vulcan 9 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-11T00:00:00Z",
+            "Size": 136488960,
+            "Version": "20.0",
+            "_Comment": "Vulcan 9",
+            "sha1": "1186f266625897dc9d82424b40144724e80a1fac"
+        },
+        {
+            "AppVersion": "46.1.139",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/ZUS-3.0-46.1.139-12583-r13-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus-8/Zeus-v3-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "LanguagePack": "Standard",
+            "Models": [
+                "Zeus 8",
+                "Zeus 12"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 381,
+                    "ProductCode": 6937,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus 8 MFD"
+                },
+                {
+                    "ClassCode": 60,
+                    "FunctionCode": 210,
+                    "ManCode": 381,
+                    "ProductCode": 19675,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus 12 MFD"
+                }
+            ],
+            "ReleaseDate": "2014-07-25T00:00:00Z",
+            "Size": 94760960,
+            "Version": "3.0",
+            "_Comment": "Zeus",
+            "sha1": "f975cd5f4417088a8299471e8392c65ce731f840"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/Zeus2_Black_Box-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus-Glass-Helm-Family1/BandG-Zeus2-Glass-Helm-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Zeus2 Black Box"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 14112,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus2 Black Box MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 61462,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus2 Black Box MFD (Pre-production)"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 206059520,
+            "Version": "20.0",
+            "_Comment": "Zeus2 Black Box",
+            "sha1": "5343c79b0f050fa2bf4fe8f43cbb716e4d7df35f"
+        },
+        {
+            "AppVersion": "61.1.155",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/18.3/Zeus2_W-18.3-61.1.155-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus2-7/BandG-Zeus2-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Zeus2 W7",
+                "Zeus2 W9",
+                "Zeus2 W12"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 12424,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus2 W7 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 25031,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus2 W9 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 16891,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus2 W12 MFD"
+                }
+            ],
+            "ReleaseDate": "2019-04-15T00:00:00Z",
+            "Size": 146186240,
+            "Version": "18.3",
+            "_Comment": "Zeus2 W",
+            "sha1": "9f85ec2d70c3726ae2737b691d0e7b95dde5cb4c"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/Zeus3-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/Support/Downloads/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Zeus3 7",
+                "Zeus3 9",
+                "Zeus3 12",
+                "Zeus3 16"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 15137,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3 7 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 18794,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3 9 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 26004,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3 12 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 1016,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3 16 MFD"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 204974080,
+            "Version": "20.0",
+            "_Comment": "Zeus3",
+            "sha1": "c4a51e8c540dcce54cbd7c6573e4dc96e15dc1bd"
+        },
+        {
+            "AppVersion": "63.1.291",
+            "Brand": "B&G",
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/Zeus3_Glass_Helm-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus-Glass-Helm-Family1/BandG-Zeus3-Glass-Helm-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Zeus3 Glass Helm 16",
+                "Zeus3 Glass Helm 19",
+                "Zeus3 Glass Helm 24"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 29148,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3 Glass Helm 16 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 7637,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3 Glass Helm 19 MFD"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 23838,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3 Glass Helm 24"
+                }
+            ],
+            "ReleaseDate": "2020-05-18T00:00:00Z",
+            "Size": 204984320,
+            "Version": "20.0",
+            "_Comment": "Zeus3 Glass Helm",
+            "sha1": "0aec6a0e297edf2bcff777d2b0637af01e9126cb"
+        },
+        {
+            "AppVersion": "63.1.206",
+            "File": "http://s3.amazonaws.com/navicoupdate/19.3/Zeus3S_GH_MFD-19.3-63.1.206-Standard-1.upd",
+            "Models": [
+                "Zeus3S GH MFD 16",
+                "Zeus3S GH MFD 19",
+                "Zeus3S GH MFD 24"
+            ],
+            "N2K": [
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 22855,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3S GH MFD 16"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 14130,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3S GH MFD 19"
+                },
+                {
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "ManCode": 381,
+                    "ProductCode": 4340,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+                    "_Comment": "Zeus3S GH MFD 24"
+                }
+            ],
+            "ReleaseDate": "2020-02-14T00:00:00Z",
+            "Size": 266905600,
+            "Version": "19.3",
+            "_Comment": "Zeus3S GH MFD",
+            "sha1": "b811fc7cb373f6b0c2da79e98e06b7a2ff403042"
+        }
+    ],
+    "N2K": [
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/AC12 1_3_03_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/AC12-Software/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 1857,
+            "NumberGroup": 42,
+            "ProductCode": 18846,
+            "ReleaseDate": "2015-06-01T00:00:00Z",
+            "SWVersion": "1.3.03.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "Size": 666406,
+            "_Comment": "AC12 Autopilot",
+            "sha1": "762040eb87a65cd707e417b6ac3bd251b380fd93"
+        },
+        {
+            "ClassCode": 40,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/AC42-Software/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "NumberGroup": 43,
+            "ProductCode": 13798,
+            "ReleaseDate": "2015-07-01T00:00:00Z",
+            "SWVersion": "1.3.03.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "_Comment": "AC42"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/AP24 1_3_03_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/AP24-Autopilot-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NumberGroup": 8,
+            "ProductCode": 22192,
+            "ReleaseDate": "2015-08-01T00:00:00Z",
+            "SWVersion": "1.3.03.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "Size": 676035,
+            "_Comment": "AP24 Autopilot control",
+            "sha1": "3500910e0171883dce0384b3fd97a7d6052e2d7f"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/AP28 1_3_03_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/AP28-Autopilot-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NumberGroup": 9,
+            "ProductCode": 1339,
+            "ReleaseDate": "2015-08-01T00:00:00Z",
+            "SWVersion": "1.3.03.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "Size": 669909,
+            "_Comment": "AP28-1 Autopilot control",
+            "sha1": "514089ed38f85f47a772c1d9dc3d4f1dd9f915f0"
+        },
+        {
+            "ClassCode": 40,
+            "FullURLs": [
+                {
+                    "URL": "http://www.navico-commercial.com/en/Support/Downloads/AP70-And-AP80-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "Models": [
+                "AP70 Pilot Controller",
+                "AP80 Pilot Controller"
+            ],
+            "NoDownload": true,
+            "ProductCode": 65535,
+            "ReleaseDate": "2017-09-22T00:00:00Z",
+            "SWVersion": "1.3.02.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "_Comment": "AP80 & AP70 Pilot controller",
+            "_NumberGroup": 25,
+            "_SerialBitLength": 14
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/FU80 1_3_02_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.navico-commercial.com/en/Support/Downloads/FU80-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NumberGroup": 17,
+            "ProductCode": 65535,
+            "ReleaseDate": "2020-04-15T00:00:00Z",
+            "SWVersion": "1.3.02.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "Size": 1354390,
+            "_Comment": "FU80 Pilot controller",
+            "sha1": "187026a6dd9a3558a35c297e6dae86ccb8334115"
+        },
+        {
+            "ClassCode": 60,
+            "File": "http://s3.amazonaws.com/navicoupdate/GS25 1_4_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/simrad-GS25-software/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 145,
+            "ManCode": 1857,
+            "NumberGroup": 13,
+            "ProductCode": 6829,
+            "ReleaseDate": "2013-09-09T00:00:00Z",
+            "SWVersion": "1.4.00",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})\\s+\\w+",
+            "SerialBitLength": 14,
+            "Size": 252488,
+            "_Comment": "GS25 Antenna",
+            "sha1": "774f5b5b2f2bfee59896538c1a2aedba8c7f1b46"
+        },
+        {
+            "ClassCode": 60,
+            "FullURLs": [
+                {
+                    "URL": "http://www.navico-commercial.com/en-US/Support/Downloads/HS6-GPS-Compass/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 145,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 27434,
+            "ReleaseDate": "2016-10-23T00:00:00Z",
+            "SWVersion": "01.00.00.23",
+            "SWVersionFilter": "^\\s+(\\d{2})(\\d{2})(\\d{2})(\\d{2})",
+            "_Comment": "HS60 GPS COMPASS"
+        },
+        {
+            "ClassCode": 60,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/HS70-Compass-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 145,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 9217,
+            "ReleaseDate": "2015-02-17T00:00:00Z",
+            "SWVersion": "0.1.06.04",
+            "SWVersionFilter": "^\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s+",
+            "_Comment": "HS70 GPS COMPASS (Old)"
+        },
+        {
+            "ClassCode": 60,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/HS70-Compass-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 145,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 8939,
+            "ReleaseDate": "2015-02-17T00:00:00Z",
+            "SWVersion": "0.1.06.04",
+            "SWVersionFilter": "^\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s+",
+            "_Comment": "HS70 GPS COMPASS"
+        },
+        {
+            "ClassCode": 80,
+            "File": "http://s3.amazonaws.com/navicoupdate/IS40 Display 2_9_00_01.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/IS40-software-update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 1857,
+            "NumberGroup": 27,
+            "ProductCode": 3741,
+            "ReleaseDate": "2013-11-01T00:00:00Z",
+            "SWVersion": "2.9.0",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "SerialBitLength": 15,
+            "Size": 4166382,
+            "_Comment": "IS40 Display",
+            "sha1": "190e01ba9cfd1b94d7ffa40660d21f5f534d09ff"
+        },
+        {
+            "ClassCode": 70,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/NAIS-400-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 275,
+            "NoDownload": true,
+            "ProductCode": 10252,
+            "ReleaseDate": "2017-06-19T00:00:00Z",
+            "SWVersion": "040200.02.02.00",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+            "_Comment": "NAIS-400"
+        },
+        {
+            "ClassCode": 40,
+            "FullURLs": [
+                {
+                    "URL": "http://www.navico-commercial.com/en/Support/Downloads/NF80-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "NumberGroup": 18,
+            "ProductCode": 65535,
+            "ReleaseDate": "2020-04-15T00:00:00Z",
+            "SWVersion": "1.3.02.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "_Comment": "NF80 Pilot controller"
+        },
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/OP10_1_4_13_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/OP10-autopilot-controller-Software-update/",
+                    "language": "en"
+                }
+            ],
+            "ManCode": 1857,
+            "ProductCode": 10485,
+            "ReleaseDate": "2017-07-14T00:00:00Z",
+            "SWVersion": "1.4.13.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "Size": 776438,
+            "_Comment": "OP10 Keypad",
+            "sha1": "4297f3aa680c991bc9e5c8866cb310ba0d34a1fe"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/OP40 1_4_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/Simrad-OP40-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NumberGroup": 16,
+            "ProductCode": 26691,
+            "ReleaseDate": "2015-07-01T00:00:00Z",
+            "SWVersion": "1.4.00.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "Size": 681586,
+            "_Comment": "OP40",
+            "sha1": "97424de528285bb9f70f48340d02c8b7992233a7"
+        },
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/POINT1 1_4_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/Point-1/",
+                    "language": "en"
+                }
+            ],
+            "ManCode": 140,
+            "ProductCode": 12060,
+            "ReleaseDate": "2013-10-09T00:00:00Z",
+            "SWVersion": "1.4.0",
+            "SWVersionFilter": "^(\\d+)\\.(\\d+)\\.(\\d+)",
+            "Size": 250789,
+            "_Comment": "LGC-5000 POINT-1",
+            "sha1": "66d8dcc9517d4612abb67f405aba366cdf341daa"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/QS80 1_3_02_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.navico-commercial.com/en/Support/Downloads/QS80-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NumberGroup": 19,
+            "ProductCode": 65535,
+            "ReleaseDate": "2020-04-15T00:00:00Z",
+            "SWVersion": "1.3.02.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "SerialBitLength": 14,
+            "Size": 1336642,
+            "_Comment": "QS80 Pilot controller",
+            "sha1": "566e96d416902bb1843b47c850374fd94e777ac0"
+        },
+        {
+            "ClassCode": 60,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/RI10-New-Software-1-4-0-and-1-4-1/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 200,
+            "ManCode": 275,
+            "Models": [
+                "RI10 - Broadband Radar"
+            ],
+            "NoDownload": true,
+            "ProductCode": 65535,
+            "ReleaseDate": "2015-07-01T00:00:00Z",
+            "SWVersion": "1.4.0",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\.(\\d+)",
+            "_Comment": "RI10 - Broadband Radar"
+        },
+        {
+            "ClassCode": 60,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/RI12 0_1_05_02.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/Halo-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 200,
+            "ManCode": 1857,
+            "NumberGroup": 1,
+            "ProductCode": 10373,
+            "ReleaseDate": "2019-05-16T00:00:00Z",
+            "SWVersion": "0.1.05.02",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})(\\d{2})\\s+",
+            "SerialBitLength": 15,
+            "Size": 169336,
+            "_Comment": "RI12 - HALO Radar",
+            "sha1": "b749b99f42825f66f818488b0aca3cf4c03d8048"
+        },
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/RS35_Software_V2.91_20160826.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/RS35-Software-v1112/",
+                    "language": "en"
+                }
+            ],
+            "ManCode": 1857,
+            "ProductCode": 14292,
+            "ReleaseDate": "2016-11-01T00:00:00Z",
+            "SWVersion": "2.91",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 1096347,
+            "_Comment": "RS35 DSC Radio",
+            "sha1": "5c6b22b9fb9bfade4325204c0c2805efca26f64c"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_RS90_Release_V3.39.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/RS90-VHF-Radio-New-Software-Release/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 1857,
+            "NumberGroup": 3,
+            "ProductCode": 2828,
+            "ReleaseDate": "2020-04-27T00:00:00Z",
+            "SWVersion": "3.39",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "SerialBitLength": 15,
+            "Size": 1215758,
+            "_Comment": "RS90 DSC Radio",
+            "sha1": "df091ecc8b39d7cc2742292881a9ff42d34337dc"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/Triton_Pilot_Keypad_1_4_13_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Triton-Pilot/Triton-Pilot-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 381,
+            "ProductCode": 24547,
+            "ReleaseDate": "2017-07-14T00:00:00Z",
+            "SWVersion": "1.4.13.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "Size": 776483,
+            "_Comment": "Triton Pilot Keypad",
+            "sha1": "90990b54e6a46d18fe1f0b4e04bd91b9e050400e"
+        },
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/ZC1 1_4_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus-Glass-Helm-ZC1-Controller/ZC1-Controller-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "ManCode": 381,
+            "ProductCode": 28853,
+            "ReleaseDate": "2015-08-07T00:00:00Z",
+            "SWVersion": "1.4.00.00",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})(\\d{2})\\s+\\w+",
+            "Size": 681631,
+            "_Comment": "ZC1",
+            "sha1": "53c05a9d5051b87c63a8270bb8ce692a19c6d013"
+        },
+        {
+            "ClassCode": 60,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/ZG100 1_4_01_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/ZG100-GPS/ZG100-v1-4-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 145,
+            "ManCode": 381,
+            "NumberGroup": 13,
+            "ProductCode": 13682,
+            "ReleaseDate": "2014-10-01T00:00:00Z",
+            "SWVersion": "1.4.01",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})\\s+\\w+",
+            "SerialBitLength": 14,
+            "Size": 254161,
+            "_Comment": "ZG100",
+            "sha1": "09c235aa38348d1b985d359db73e3c27b5b23157"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_V90_Release_V3.39.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/V90-VHF-Radio/BG-V90-1078-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 381,
+            "NumberGroup": 3,
+            "ProductCode": 27902,
+            "ReleaseDate": "2020-04-27T00:00:00Z",
+            "SWVersion": "3.39",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "SerialBitLength": 15,
+            "Size": 1215757,
+            "_Comment": "V90 DSC Radio",
+            "sha1": "7d4bb89e9a7edf11e7fa7da23f391858f056adff"
+        },
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/Triton Display 2_9_00_01.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Triton-Display/Triton-Display-Version-2_9-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "ManCode": 381,
+            "ProductCode": 25754,
+            "ReleaseDate": "2013-11-22T00:00:00Z",
+            "SWVersion": "2.9.0",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "Size": 4145908,
+            "_Comment": "T41: Triton Display",
+            "sha1": "432804694323b43858ed6358d1f19cf23abd5510"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Graphic-Display/H5000-Graphic-Display-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "ProductCode": 29816,
+            "ReleaseDate": "2018-08-16T00:00:00Z",
+            "SWVersion": "57.3.84",
+            "SWVersionFilter": "^\\w+\\s\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s+",
+            "_Comment": "H5000 Graphic Display"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/H5000 Pilot Remote 1_1_00_21.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Pilot-Controller/H5000-Pilot-Controller-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 381,
+            "ProductCode": 25800,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.1.00.21",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "Size": 1369654,
+            "_Comment": "H5000 _Pilot controller",
+            "sha1": "9916b4ed06f4d8700eda84ac4a87620e24ad8e54"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG Race Display 1_5_02_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Race-Display/H5000-Race-Display-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "ProductCode": 17595,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.5.2",
+            "SWVersionFilter": "^\\w+(\\d)\\.(\\d)(\\d)\\s*",
+            "Size": 1211382,
+            "_Comment": "H5000 Race Display",
+            "sha1": "e7ea59a8e1febf909cfe5a602bb3899407e6ed2f"
+        },
+        {
+            "ClassCode": 60,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG Motion Module 1_2_04_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-3D-Motion-Sensor/H5000-3D-Motion-Sensor-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 381,
+            "ProductCode": 21488,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.2.4",
+            "SWVersionFilter": "^(\\d)\\.(\\d)\\.(\\d)\\s+",
+            "Size": 773253,
+            "_Comment": "H5000 Motion Sensor",
+            "sha1": "578a4842a96bd9391ded2407d55573b9497c8147"
+        },
+        {
+            "ClassCode": 25,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/H5000 Serial Expansion 1_1_02_35.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Serial-Expansion/H5000-Serial-Expansion-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 135,
+            "ManCode": 381,
+            "ProductCode": 9948,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.1.02.35",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "Size": 1373313,
+            "_Comment": "H5000 Serial Expansion",
+            "sha1": "294196258bc80ad9b51a15204812437a8391bd19"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/V50_Software_V2.91_20160826.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/V50-Fixed-Mount-VHF/V50-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 381,
+            "ProductCode": 27719,
+            "ReleaseDate": "2017-04-26T00:00:00Z",
+            "SWVersion": "2.91",
+            "SWVersionFilter": "^(\\d+)\\.(\\d+)\\s*",
+            "Size": 1097266,
+            "_Comment": "V50 DSC Radio",
+            "sha1": "3157d9b416931a455a5e84f6372e15e096a19b45"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus2-Glass-Helm-ZM-Display-16/Zeus-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "NumberGroup": 1,
+            "ProductCode": 7232,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "SerialBitLength": 15,
+            "_Comment": "ZM16-T"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/Zeus2-Glass-Helm-ZM-Display-16/Zeus-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "NumberGroup": 1,
+            "ProductCode": 17247,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "SerialBitLength": 15,
+            "_Comment": "ZM19-T"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/MO-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 8875,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "_Comment": "MO16-P"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/MO-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 16532,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "_Comment": "MO19-P"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/MO-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 15309,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "_Comment": "MO24-P"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/MO-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 19180,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "_Comment": "MO16-T"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/MO-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 21105,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "_Comment": "MO19-T"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/MO-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 5668,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "_Comment": "MO24-T"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/MO-Monitor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "NumberGroup": 1,
+            "ProductCode": 11548,
+            "ReleaseDate": "2019-09-05T00:00:00Z",
+            "SWVersion": "1.5.06",
+            "SWVersionFilter": "^\\w+\\s(\\d+)\\.(\\d+)\\.(\\d+)\\s+\\w+",
+            "SerialBitLength": 15,
+            "_Comment": "M5024"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/TP10-22-32 1_1_04_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-US/Support/Downloads/TP10-TP22-TP32-Tillerpilot-Software-Revision/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 1857,
+            "ProductCode": 10001,
+            "ReleaseDate": "2017-09-30T00:00:00Z",
+            "SWVersion": "1.1.04.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "Size": 1085297,
+            "_Comment": "TP32 TILLERPILOT",
+            "sha1": "e066684e9733aa1ad8140c38a3360888012371fa"
+        },
+        {
+            "ClassCode": 60,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/Precision_9_2_0_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/Precision-9-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 275,
+            "ProductCode": 13233,
+            "ReleaseDate": "2016-10-01T00:00:00Z",
+            "SWVersion": "2.0.00.00",
+            "SWVersionFilter": "^(\\d+)\\.(\\d+)\\.(\\d+)-(\\d+)\\s*",
+            "Size": 349756,
+            "_Comment": "Precision-9",
+            "sha1": "d321a7fce10c6c6994164ae0d365089f144397cc"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/ZC2 1_0_02_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en-GB/Products/ZC2-Remote---Portrait/ZC2-Remote-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 381,
+            "ProductCode": 19596,
+            "ReleaseDate": "2017-07-27T00:00:00Z",
+            "SWVersion": "1.0.02.00",
+            "SWVersionFilter": "^(\\d)\\.(\\d)\\.(\\d{2})\\.(\\d{2})*",
+            "Size": 415021,
+            "_Comment": "ZC2, ZC2H",
+            "sha1": "b98c0f464f04c439a3fe198c13064682c9d1d813"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/OP50 1_0_02_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-US/Support/Downloads/OP50-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "ProductCode": 26549,
+            "ReleaseDate": "2017-07-27T00:00:00Z",
+            "SWVersion": "1.0.02.00",
+            "SWVersionFilter": "^(\\d)\\.(\\d)\\.(\\d{2})\\.(\\d{2})*",
+            "Size": 415022,
+            "_Comment": "OP50",
+            "sha1": "86c46c95c64fc902f549fd114b9b16b9d6716112"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG Alarm Module 1_2_04_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Audible-Alarm-sounder/H5000-Audible-Alarm-Module-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 381,
+            "ProductCode": 14349,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.2.04",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)\\s*",
+            "Size": 773253,
+            "_Comment": "H5000 Alarm",
+            "sha1": "8f82d5388d435db889593c42744ed220a870fd12"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/2020-HV-Display/HV-Display-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "ProductCode": 18902,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.4.05",
+            "SWVersionFilter": "^\\w+(\\d)\\.(\\d)(\\d)\\s*",
+            "_Comment": "HV Display 10/10"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/2020-HV-Display/HV-Display-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "ProductCode": 2760,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.4.05",
+            "SWVersionFilter": "^\\w+(\\d)\\.(\\d)(\\d)\\s*",
+            "_Comment": "HV Display 20/20"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/2020-HV-Display/HV-Display-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "ProductCode": 13119,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.4.05",
+            "SWVersionFilter": "^\\w+(\\d)\\.(\\d)(\\d)\\s*",
+            "_Comment": "HV Display 30/30"
+        },
+        {
+            "ClassCode": 120,
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/2020-HV-Display/HV-Display-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "ProductCode": 24789,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.4.05",
+            "SWVersionFilter": "^\\w+(\\d)\\.(\\d)(\\d)\\s*",
+            "_Comment": "HV Display 40/40"
+        },
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/Link8_Software_V2.91_20160826.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/Link-8-Software/",
+                    "language": "en"
+                }
+            ],
+            "ManCode": 140,
+            "ProductCode": 23042,
+            "ReleaseDate": "2016-11-07T00:00:00Z",
+            "SWVersion": "2.91",
+            "Size": 918043,
+            "_Comment": "Link-8 DSC Radio",
+            "sha1": "e6129e99c7b248095aa7ed6a36112c998ff0163c"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/H5000 Sail Pilot 1_2_05_08.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Pilot-Computer/H5000-Pilot-Computer-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 381,
+            "ProductCode": 25881,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.2.05.08",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "Size": 1351592,
+            "_Comment": "H5000 Sail Pilot",
+            "sha1": "964594644b2c18d7614be74347e6360658a3544e"
+        },
+        {
+            "ClassCode": 80,
+            "File": "http://s3.amazonaws.com/navicoupdate/Standalone/Elite7-4.0-5.1.13-30619-r1-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/Elite-40/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 140,
+            "ProductCode": 24758,
+            "ReleaseDate": "2015-07-28T00:00:00Z",
+            "SWVersion": "5.1.13",
+            "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+            "Size": 17786880,
+            "_Comment": "Elite-7 CDI Display",
+            "sha1": "235bcc0887ea6769e303b4f99e36b83867d42eda"
+        },
+        {
+            "ClassCode": 80,
+            "File": "http://s3.amazonaws.com/navicoupdate/Standalone/Elite9-4.0-5.1.13-31039-r1-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.lowrance.com/en/Software-Updates/Elite-40/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 140,
+            "ProductCode": 26522,
+            "ReleaseDate": "2015-07-28T00:00:00Z",
+            "SWVersion": "5.1.13",
+            "SWVersionFilter": "^\\d+\\.\\d+\\.(\\d+)\\.(\\d+)\\.(\\d+)",
+            "Size": 17960960,
+            "_Comment": "Elite-9 CDI Display",
+            "sha1": "9410eeba6a79a220decbfaa673106bb8111f41a1"
+        },
+        {
+            "ClassCode": 25,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/H5000 Analogue Expansion 1_8_03_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-Expansion/H5000-Analogue-Expansion-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 132,
+            "ManCode": 381,
+            "ProductCode": 27925,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.8.03.00",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})\\d{2}\\s+",
+            "Size": 872937,
+            "_Comment": "H5000 Analog Expansion",
+            "sha1": "602510318491376cf492d423557c4b2f721b498a"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+TWA+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 3,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 566569,
+            "_Comment": "TWA Analog Gauge",
+            "sha1": "fc1fe355830649ac204ee659eb5c97036a3046a9"
+        },
+        {
+            "ClassCode": 85,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG Baro Pressure Air Temp Module 1_2_04_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en-GB/Products/H5000-Barometric-Pressure-Sensor/H5000-Barometric-Pressure-Sensor-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "ProductCode": 11114,
+            "ReleaseDate": "2018-08-31T00:00:00Z",
+            "SWVersion": "1.2.4",
+            "SWVersionFilter": "^(\\d)\\.(\\d)\\.(\\d)\\s+",
+            "Size": 773269,
+            "_Comment": "H5000 Barometric Pressure Sensor",
+            "sha1": "63345c01fe3425a8275a8f62e0cba5f5665ea65b"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+AWA+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 2,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 551151,
+            "_Comment": "AWA Analog Gauge",
+            "sha1": "beefbdba7ffb684ea172ebcb68d9c93d59f47a76"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+AWS+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 5,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 551197,
+            "_Comment": "AWS Analog Gauge",
+            "sha1": "36d04db246884240523ad190f73de50701e43a58"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+TWS+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 6,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 566661,
+            "_Comment": "TWS Analog Gauge",
+            "sha1": "37674f9d59e0b33958af35bcdef42155dbf9fd3f"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+Mag+Wind+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 4,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 552398,
+            "_Comment": "Magnified Wind Analog Gauge",
+            "sha1": "6c93b74527cbcc71f310690719a84ebf1686442e"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+Depth+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 8,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 553093,
+            "_Comment": "Depth Analog Gauge",
+            "sha1": "7b70a4e40c5a7cd8213461964ab1e57e4088bb6f"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+Depth+Feet+Fath+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 9,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 553371,
+            "_Comment": "Ft/Fm Analog Gauge",
+            "sha1": "09d385368e8c2f5b3b6f35b1e3ba0626901786e2"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+Heading+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 10,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 566152,
+            "_Comment": "Heading Analog Gauge",
+            "sha1": "3724d16411e85a36df0bbf3f290f4cf3f27ba75c"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+Rudder+Gauge+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 11,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 546533,
+            "_Comment": "Rudder Analog Gauge",
+            "sha1": "8ff79d035b9cc07b1be5c01d63d82b1d318333a2"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+Boat+Speed+Gauge+25Kts+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 18,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 552913,
+            "_Comment": "Boat Speed 25Kts Analog Gauge",
+            "sha1": "caa39d84b18fad3c1fac8c723d4d412f272eb768"
+        },
+        {
+            "ClassCode": 120,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/BG+Boat+Speed+Gauge+12Kts+1_15_00_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.bandg.com/en/Products/H5000-Analogue-AWA-360/Analogue-Display-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NumberGroup": 7,
+            "ProductCode": 5936,
+            "ReleaseDate": "2016-01-26T00:00:00Z",
+            "SWVersion": "1.15.0",
+            "SWVersionFilter": "^(\\d)\\.(\\d+)\\.(\\d)*",
+            "SerialBitLength": 15,
+            "Size": 552912,
+            "_Comment": "Boat Speed 12.5Kts Analog Gauge",
+            "sha1": "de947218a89d03cae8c89191241a38c98790bea3"
+        },
+        {
+            "ClassCode": 40,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-au/Support/Downloads/O2000-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 7265,
+            "ReleaseDate": "2016-11-09T00:00:00Z",
+            "SWVersion": "1.0.03.00",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})(\\d{2})\\s+\\w+",
+            "_Comment": "O2000"
+        },
+        {
+            "ClassCode": 25,
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "NumberGroup": 14,
+            "ProductCode": 65535,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "1.0.03.00",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})\\d{2}\\s+",
+            "SerialBitLength": 12,
+            "_Comment": "H5000 Fastnet Interface"
+        },
+        {
+            "ClassCode": 50,
+            "File": "http://s3.amazonaws.com/navicoupdate/20.0/VVL-20.0-63.1.291-Standard-1.upd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.mercurymarine.com/en/us/gauges-and-controls/gauges-displays/vesselview/software/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 160,
+            "ManCode": 144,
+            "ProductCode": 16940,
+            "ReleaseDate": "2020-05-11T00:00:00Z",
+            "SWVersion": "63.1.291",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "Size": 15943680,
+            "_Comment": "VVLM/VVLS VesselView Link Multi/Single",
+            "sha1": "12b6f1787f03ac41dc53d803688899fb25efe457"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/NAC2 1_0_03_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-US/Support/Downloads/NAC-2-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 275,
+            "ProductCode": 12271,
+            "ReleaseDate": "2017-12-07T00:00:00Z",
+            "SWVersion": "1.0.03.00",
+            "SWVersionFilter": "(\\d)\\.(\\d)\\.(\\d+)\\.(\\d+)\\s+",
+            "Size": 1139808,
+            "_Comment": "NAC-2 _Autopilot Computer",
+            "sha1": "5f14c363de03b486367236919b3afdbe3ea7113f"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/NAC3_1_0_03_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-US/Support/Downloads/NAC-3-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 275,
+            "ProductCode": 25576,
+            "ReleaseDate": "2017-08-28T00:00:00Z",
+            "SWVersion": "1.0.03.00",
+            "SWVersionFilter": "(\\d)\\.(\\d)\\.(\\d+)\\.(\\d+)\\s+",
+            "Size": 1101276,
+            "_Comment": "NAC-3 _Autopilot Computer",
+            "sha1": "c18dd64b647e09cb4b392170f76cc7899a23dad0"
+        },
+        {
+            "ClassCode": 60,
+            "FunctionCode": 195,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 9570,
+            "ReleaseDate": "2016-11-09T00:00:00Z",
+            "SWVersion": "1.0.6.46",
+            "SWVersionFilter": "(\\d)\\.(\\d)\\.(\\d)\\.(\\d{2})",
+            "_Comment": "V5035"
+        },
+        {
+            "ClassCode": 120,
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "ProductCode": 1964,
+            "ReleaseDate": "2018-09-07T00:00:00Z",
+            "SWVersion": "57.3.83",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "Triton2 Instrument"
+        },
+        {
+            "ClassCode": 60,
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-US/m/Products/AIS-Weather-and-Audio/NAIS-500-AIS-en-us.aspx",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 195,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 1949,
+            "ReleaseDate": "2018-02-22T00:00:00Z",
+            "SWVersion": "1.2.8.01",
+            "SWVersionFilter": "(\\d)\\.(\\d)\\.(\\d)\\.(\\d{2})",
+            "_Comment": "NAIS 500"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/NAC1 1_0_03_00.swup",
+            "FullURLs": [
+                {
+                    "URL": "https://bandg.com/downloads/nac-1-software-update/",
+                    "language": "en"
+                }
+            ],
+            "FunctionCode": 150,
+            "ManCode": 275,
+            "NumberGroup": 50,
+            "ProductCode": 65535,
+            "ReleaseDate": "2017-12-07T00:00:00Z",
+            "SWVersion": "1.0.3.00",
+            "SWVersionFilter": "^(\\d)\\.(\\d)\\.(\\d+).\\d+\\s+",
+            "SerialBitLength": 14,
+            "Size": 1010088,
+            "_Comment": "NAC-1 _Autopilot",
+            "sha1": "9a239eb048cec8a312be3d70cadb179e1e8d8d9b"
+        },
+        {
+            "ClassCode": 40,
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 20010,
+            "ReleaseDate": "2019-01-15T00:00:00Z",
+            "SWVersion": "57.3.86",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "AP44 Autopilot Controller"
+        },
+        {
+            "ClassCode": 120,
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 24122,
+            "ReleaseDate": "2019-01-15T00:00:00Z",
+            "SWVersion": "57.3.86",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "IS42 Instrument"
+        },
+        {
+            "ClassCode": 40,
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 15840,
+            "ReleaseDate": "2018-03-01T00:00:00Z",
+            "SWVersion": "57.3.71",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "AP48 Autopilot Controller"
+        },
+        {
+            "ClassCode": 85,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/WS310 1_0_00_00.swup",
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "ProductCode": 17537,
+            "ReleaseDate": "2018-06-06T00:00:00Z",
+            "SWVersion": "1.0.00.00",
+            "SWVersionFilter": "^\\w+\\s(\\d)(\\d)(\\d{2})(\\d{2})\\s+",
+            "Size": 427710,
+            "_Comment": "WS310",
+            "sha1": "dd5ffdf0bec07f4129c38464d08ee0ccc1f8262e"
+        },
+        {
+            "ClassCode": 85,
+            "FunctionCode": 130,
+            "ManCode": 381,
+            "NoDownload": true,
+            "ProductCode": 5120,
+            "ReleaseDate": "2018-06-06T00:00:00Z",
+            "SWVersion": "1.0.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d+)",
+            "_Comment": "WS320"
+        },
+        {
+            "ClassCode": 40,
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 4152,
+            "ReleaseDate": "2017-03-16T00:00:00Z",
+            "SWVersion": "57.3.20",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "A2004    Autopilot Controller   "
+        },
+        {
+            "Brand": "Lowrance",
+            "ClassCode": 90,
+            "FunctionCode": 130,
+            "ManCode": 140,
+            "NoDownload": true,
+            "ProductCode": 484,
+            "ReleaseDate": "2016-12-08T00:00:00Z",
+            "SWVersion": "1.2.0",
+            "SWVersionFilter": "^(\\d+)\\.(\\d+)\\.(\\d+)\\s\\w+$",
+            "_Comment": "Temperature"
+        },
+        {
+            "ClassCode": 120,
+            "FunctionCode": 130,
+            "ManCode": 172,
+            "NoDownload": true,
+            "ProductCode": 14272,
+            "ReleaseDate": "2018-08-23T00:00:00Z",
+            "SWVersion": "60.1.140",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "YD42 Instrument"
+        },
+        {
+            "ClassCode": 120,
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 2097,
+            "ReleaseDate": "2018-08-23T00:00:00Z",
+            "SWVersion": "60.1.140",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "IS42J Instrument"
+        },
+        {
+            "ClassCode": 40,
+            "FunctionCode": 140,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 2837,
+            "ReleaseDate": "2019-05-16T00:00:00Z",
+            "SWVersion": "61.1.157",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "AP70 Mk2 Autopilot Controller"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_RS40B_v4.18.swup",
+            "FunctionCode": 190,
+            "ManCode": 1857,
+            "ProductCode": 17760,
+            "ReleaseDate": "2019-07-19T00:00:00Z",
+            "SWVersion": "4.18",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 3764874,
+            "_Comment": "RS40-B VHF DSC-AIS Radio",
+            "sha1": "21d8e024e8b7e1ee2efb77ae064d5b8ccad335c0"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_V60B_v4.18.swup",
+            "FunctionCode": 190,
+            "ManCode": 381,
+            "ProductCode": 2825,
+            "ReleaseDate": "2019-07-19T00:00:00Z",
+            "SWVersion": "4.18",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 3764873,
+            "_Comment": "V60-B VHF DSC-AIS Radio",
+            "sha1": "71c6b3e044714dd0fd295c66773c6592ab98c534"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_V90S_Release_V3.39.swup",
+            "FunctionCode": 190,
+            "ManCode": 381,
+            "ProductCode": 2486,
+            "ReleaseDate": "2020-04-27T00:00:00Z",
+            "SWVersion": "3.39",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 1227044,
+            "_Comment": "V90S DSC Radio",
+            "sha1": "8b0bd4395b860d1b602e8ea0cf4152f9f7cfbd17"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_RS40_V3.47.swup",
+            "FunctionCode": 190,
+            "ManCode": 1857,
+            "ProductCode": 13225,
+            "ReleaseDate": "2019-08-02T00:00:00Z",
+            "SWVersion": "3.47",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 2649049,
+            "_Comment": "RS40 VHF DSC-AIS Radio",
+            "sha1": "0ea4445f4f0fca5c10a6b26dea8564699e90e60d"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_V60_V3.47.swup",
+            "FunctionCode": 190,
+            "ManCode": 381,
+            "ProductCode": 26920,
+            "ReleaseDate": "2019-08-02T00:00:00Z",
+            "SWVersion": "3.47",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 2649048,
+            "_Comment": "V60",
+            "sha1": "d2db78d1224eff0c2cea67badca3f704e3da1466"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/RS20S 2_15_00_00.swup",
+            "FunctionCode": 190,
+            "ManCode": 1857,
+            "ProductCode": 11912,
+            "ReleaseDate": "2018-09-30T00:00:00Z",
+            "SWVersion": "2.15",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 1096267,
+            "_Comment": "RS20S VHF DSC Radio",
+            "sha1": "5aeefdade0e06e71fc28ff27bca844a221b56376"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_LINK9_V3.47.swup",
+            "FunctionCode": 190,
+            "ManCode": 140,
+            "ProductCode": 24748,
+            "ReleaseDate": "2019-08-02T00:00:00Z",
+            "SWVersion": "3.47",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 1416217,
+            "_Comment": "Link-9 VHF DSC-AIS Radio",
+            "sha1": "046b8c39aa199ee5192fadf617a59bfbb6d8bba0"
+        },
+        {
+            "ClassCode": 70,
+            "File": "http://s3.amazonaws.com/navicoupdate/VHF/SW_VHF_RS90S_Release_V3.39.swup",
+            "FunctionCode": 190,
+            "ManCode": 1857,
+            "ProductCode": 719,
+            "ReleaseDate": "2020-04-27T00:00:00Z",
+            "SWVersion": "3.39",
+            "SWVersionFilter": "(\\d+)\\.(\\d+)\\s*$",
+            "Size": 1227045,
+            "_Comment": "RS90S DSC Radio",
+            "sha1": "03fce2540b9d15ecf8d07e757d39923a3e19de91"
+        },
+        {
+            "ClassCode": 120,
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 20161,
+            "ReleaseDate": "2019-06-21T00:00:00Z",
+            "SWVersion": "62.2.48",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "I3005 Instrument"
+        },
+        {
+            "ClassCode": 120,
+            "FunctionCode": 130,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 24439,
+            "ReleaseDate": "2019-06-21T00:00:00Z",
+            "SWVersion": "62.2.48",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "I3007 Instrument"
+        },
+        {
+            "ClassCode": 60,
+            "FunctionCode": 190,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 12993,
+            "ReleaseDate": "2019-08-15T00:00:00Z",
+            "SWVersion": "62.2.56",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "P2005 Navigator"
+        },
+        {
+            "ClassCode": 60,
+            "FunctionCode": 190,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 5852,
+            "ReleaseDate": "2019-08-15T00:00:00Z",
+            "SWVersion": "62.2.56",
+            "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\s*$",
+            "_Comment": "P3007 Navigator"
+        },
+        {
+            "ClassCode": 25,
+            "FunctionCode": 135,
+            "ManCode": 1857,
+            "NoDownload": true,
+            "ProductCode": 65535,
+            "ReleaseDate": "2019-10-26T00:00:00Z",
+            "SWVersion": "1.1.03.00",
+            "SWVersionFilter": "^\\w+\\s+(\\d)(\\d)(\\d{2})(\\d{2})\\s*",
+            "_Comment": "MXJB NMEA Gateway"
+        },
+        {
+            "ClassCode": 40,
+            "File": "http://s3.amazonaws.com/navicoupdate/N2K/GHOST_Full_Updater_1_1_04_00.swup",
+            "FunctionCode": 150,
+            "ManCode": 275,
+            "ProductCode": 1815,
+            "ReleaseDate": "2020-06-17T00:00:00Z",
+            "SWVersion": "1.1.04.00",
+            "SWVersionFilter": "(\\d).(\\d).(\\d+).(\\d+)\\s+",
+            "Size": 1231050,
+            "_Comment": "GHOST Trolling Motor",
+            "sha1": "e9aeae8dff6e19eabebb1167ac1ed411b8be1896"
+        }
+    ],
+    "Radars": [
+        {
+            "AppVersion": "3.0.38",
+            "AppVersionP4": "3.0.0.38",
+            "File": "http://s3.amazonaws.com/navicoupdate/RadarApp_3.0.38.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/3G-Radar-Software-December-2012/",
+                    "language": "en"
+                }
+            ],
+            "MaxAppVersion": "3.2.0",
+            "MaxAppVersionP4": "3.2.0.0",
+            "Models": [
+                "3G"
+            ],
+            "ReleaseDate": "2012-12-17T00:00:00Z",
+            "Size": 2603328,
+            "Version": "3.0.38",
+            "_Comment": "3G",
+            "sha1": "ea57852e8489f057619b9596b05374ae57b1072a"
+        },
+        {
+            "AppVersion": "3.3.17",
+            "AppVersionP4": "3.3.0.17",
+            "File": "http://s3.amazonaws.com/navicoupdate/Radar/BRHD3G-3.3.17-BRHD4G-4.3.17-32968-r1-Standard-1.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-US/m/Products/Radar/Simrad-3G-Broadband-Radar-en-us.aspx",
+                    "language": "en"
+                }
+            ],
+            "MinAppVersion": "3.2.00",
+            "MinAppVersionP4": "3.2.0.00",
+            "Models": [
+                "3G"
+            ],
+            "ReleaseDate": "2017-06-30T00:00:00Z",
+            "Size": 15752384,
+            "Version": "3.3.17",
+            "_Comment": "3G",
+            "sha1": "c3132c8d7308a53071be746a9ea11b2cdb94b1fc"
+        },
+        {
+            "AppVersion": "4.1.57",
+            "AppVersionP4": "4.1.0.57",
+            "File": "http://s3.amazonaws.com/navicoupdate/RadarApp_4.1.57.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/4G-Radar-Software/",
+                    "language": "en"
+                }
+            ],
+            "MaxAppVersion": "4.2.0",
+            "MaxAppVersionP4": "4.2.0.0",
+            "Models": [
+                "4G"
+            ],
+            "ReleaseDate": "2012-12-20T00:00:00Z",
+            "Size": 5263936,
+            "Version": "4.1.57",
+            "_Comment": "4G",
+            "sha1": "508914c1515431d71b9ea811bab7efa35f63e702"
+        },
+        {
+            "AppVersion": "4.3.17",
+            "AppVersionP4": "4.3.0.17",
+            "File": "http://s3.amazonaws.com/navicoupdate/Radar/BRHD3G-3.3.17-BRHD4G-4.3.17-32968-r1-Standard-1.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en-US/m/Products/Radar/Broadband-4G-Radar-en-us.aspx",
+                    "language": "en"
+                }
+            ],
+            "MinAppVersion": "4.2.0",
+            "MinAppVersionP4": "4.2.0.0",
+            "Models": [
+                "4G"
+            ],
+            "ReleaseDate": "2017-07-26T00:00:00Z",
+            "Size": 15752384,
+            "Version": "4.3.17",
+            "_Comment": "4G",
+            "sha1": "c3132c8d7308a53071be746a9ea11b2cdb94b1fc"
+        },
+        {
+            "AppVersion": "2.9.273",
+            "AppVersionP4": "2.9.0.273",
+            "File": "http://s3.amazonaws.com/navicoupdate/Radar/BR24_Radar_V_2_9_0_273.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/BR24-Broadband-Radar/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "BR24"
+            ],
+            "ReleaseDate": "2010-09-01T00:00:00Z",
+            "Size": 2819599,
+            "Version": "2.9.0.273",
+            "_Comment": "BR24",
+            "sha1": "1d97ee34fcdc4d210ed0c09256cb402142df5256"
+        },
+        {
+            "AppVersion": "5.3.97",
+            "AppVersionP4": "5.3.1.97",
+            "File": "http://s3.amazonaws.com/navicoupdate/BRHALO-5.3.1.97-Standard-1.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/Halo-Software-Upgrade/",
+                    "language": "en"
+                }
+            ],
+            "Models": [
+                "Halo"
+            ],
+            "ReleaseDate": "2018-09-12T00:00:00Z",
+            "Size": 25910400,
+            "Version": "5.3.1.97",
+            "_Comment": "Halo",
+            "sha1": "d62bf74b268d7557d02f3f4420d3b61f54574894"
+        },
+        {
+            "AppVersion": "7.0.43",
+            "AppVersionP4": "7.0.2.43",
+            "File": "http://s3.amazonaws.com/navicoupdate/Radar/HALO_DOME/RadarApp-BRHDG2-7.0.2.43.riw",
+            "Models": [
+                "Halo20+",
+                "Halo24",
+                "Halo20"
+            ],
+            "ReleaseDate": "2020-01-17T00:00:00Z",
+            "Size": 17861280,
+            "Version": "7.0.2.43",
+            "_Comment": "Halo2x",
+            "sha1": "6ac5f2820e2cc78955de89f35882ae21c17c6865"
+        },
+        {
+            "AppVersion": "1.8.251",
+            "AppVersionP4": "1.8.0.251",
+            "File": "http://s3.amazonaws.com/navicoupdate/Simrad_NPR_1_8_251.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/Radar-Software1/",
+                    "language": "en"
+                }
+            ],
+            "MaxAppVersion": "1.8.300",
+            "MaxAppVersionP4": "1.8.0.300",
+            "Models": [
+                "10kW",
+                "4kW",
+                "25kW",
+                "6kW",
+                "2kW"
+            ],
+            "ReleaseDate": "2011-07-21T00:00:00Z",
+            "Size": 1528696,
+            "Version": "1.8.251",
+            "_Comment": "HD Digital",
+            "sha1": "51f835cf999da336435772c9496df4b23c38d3c4"
+        },
+        {
+            "AppVersion": "1.8.340",
+            "AppVersionP4": "1.8.0.340",
+            "File": "http://s3.amazonaws.com/navicoupdate/Radar/PulseRadarApp2_1.8.340.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/Radar-Software1/",
+                    "language": "en"
+                }
+            ],
+            "MinAppVersion": "1.8.300",
+            "MinAppVersionP4": "1.8.0.300",
+            "Models": [
+                "10kW",
+                "4kW",
+                "25kW",
+                "6kW",
+                "2kW"
+            ],
+            "ReleaseDate": "2018-07-11T00:00:00Z",
+            "Size": 1618496,
+            "Version": "1.8.340",
+            "_Comment": "HD Digital",
+            "sha1": "75aad3ce829af97684c87cde8042bf429ebd3ae0"
+        }
+    ],
+    "Sonars": [
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/Sonar/BSM2_upd_380.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/BSM-2-Software/",
+                    "language": "en"
+                }
+            ],
+            "HostVersion": "3.8.0",
+            "Models": [
+                "BSM-2"
+            ],
+            "ReleaseDate": "2016-01-01T00:00:00Z",
+            "Size": 308288,
+            "Version": "3.8.0",
+            "_Comment": "BSM-2",
+            "sha1": "62e1a0d0179cae2470098e1b0e829bde3759ae43"
+        },
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/Sonar/BSM3_upd_380.riw",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/BSM-3-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "HostVersion": "3.8.0",
+            "Models": [
+                "BSM-3"
+            ],
+            "ReleaseDate": "2016-01-01T00:00:00Z",
+            "Size": 308288,
+            "Version": "3.8.0",
+            "_Comment": "BSM-3",
+            "sha1": "b80111ce3c168e5d3f4ab967d3607639565acd3f"
+        }
+    ],
+    "Weather": [
+        {
+            "File": "http://s3.amazonaws.com/navicoupdate/wm3-uprev3.wpd",
+            "FullURLs": [
+                {
+                    "URL": "http://www.simrad-yachting.com/en/Support/Downloads/WM-3-Weather-Module-Software-Update/",
+                    "language": "en"
+                }
+            ],
+            "ModelName": "WM-3",
+            "ReleaseDate": "2015-09-11T21:02:25Z",
+            "RevisionLevels": [
+                "NDR-NV-A",
+                "SIMRAD-WM-3"
+            ],
+            "Size": 551018,
+            "UprevLevel": 3,
+            "Version": "3",
+            "sha1": "612bbb2c7dc5c610c6bb35aecf51bd08870913fb"
+        }
+    ]
+}
