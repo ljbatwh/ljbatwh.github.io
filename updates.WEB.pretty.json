@@ -772,7 +772,7 @@
             "Version": "2.0.1.2006",
             "Brand": "Simrad",
             "ReleaseDate": "2021-04-14T00:00:00Z",
-            "File": "https://ljbatwh.github.io/navico_naiad-ota-20210323.zip",
+            "File": "https://naiad-ota.s3-ap-southeast-2.amazonaws.com/navico_naiad-ota-20210323.zip",
             "Size": 785023238,
             "sha1": "db0be36b2096baaf66ffa6fc80cf554ec438f763",
             "_Comment": "NSX",
