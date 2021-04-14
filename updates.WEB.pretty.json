@@ -769,6 +769,29 @@
             ]
         },
         {
+            "Version": "2.0.1.2006",
+            "Brand": "Simrad",
+            "ReleaseDate": "2021-04-14T00:00:00Z",
+            "File": "https://ljbatwh.github.io/navico_naiad-ota-20210323.zip",
+            "Size": 785023238,
+            "sha1": "db0be36b2096baaf66ffa6fc80cf554ec438f763",
+            "_Comment": "NSX",
+            "AppVersion": "2.0.1.2006",
+            "Models": [
+                "NSX-7"
+            ],
+            "N2K": [
+                {
+                    "_Comment": "NSX-7",
+                    "ManCode": 381,
+                    "ProductCode": 27390,
+                    "ClassCode": 120,
+                    "FunctionCode": 130,
+                    "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)"
+                }
+            ]
+        },
+        {
             "Version": "4.0",
             "Brand": "Simrad",
             "ReleaseDate": "2014-10-10T00:00:00Z",
