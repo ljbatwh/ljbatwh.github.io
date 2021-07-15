@@ -769,14 +769,14 @@
             ]
         },
         {
-            "Version": "2.0.1.2006",
+            "Version": "2.0.1.2500",
             "Brand": "Simrad",
             "ReleaseDate": "2021-04-14T00:00:00Z",
-            "File": "https://naiad-ota.s3-ap-southeast-2.amazonaws.com/navico_naiad-ota-20210323.zip",
-            "Size": 785023238,
-            "sha1": "db0be36b2096baaf66ffa6fc80cf554ec438f763",
+            "File": "https://ljbatwh.github.io/ota-ab.zip",
+            "Size": 31457280,
+            "sha1": "a869e551c0dfeaf152a594f9051b99a65d46f16d",
             "_Comment": "NSX",
-            "AppVersion": "2.0.1.2006",
+            "AppVersion": "2.0.1.2500",
             "Models": [
                 "NSX-7"
             ],
