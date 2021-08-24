@@ -769,16 +769,18 @@
             ]
         },
         {
-            "Version": "2.0.1.2570",
+            "Version": "1.0.1.283",
             "Brand": "Simrad",
-            "ReleaseDate": "2021-08-20T00:00:00Z",
-            "File": "https://ljbatwh.github.io/ota-ab.zip",
-            "Size": 31457280,
-            "sha1": "a869e551c0dfeaf152a594f9051b99a65d46f16d",
+            "ReleaseDate": "2021-08-24T00:00:00Z",
+            "File": "https://naiad-ota.s3.ap-southeast-2.amazonaws.com/naiad_imx8mp-ota-20210824.zip",
+            "Size": 967073891,
+            "sha1": "08cce0bdf1cde8d8447c2e3c0670017ca4bf954d",
             "_Comment": "NSX",
-            "AppVersion": "2.0.1.2570",
+            "AppVersion": "1.0.1.283",
             "Models": [
-                "NSX-7"
+                "NSX-7",
+                "NSX-9",
+                "NSX-12"
             ],
             "N2K": [
                 {
@@ -788,7 +790,23 @@
                     "ClassCode": 120,
                     "FunctionCode": 130,
                     "SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)"
-                }
+                },
+                {
+					"_Comment": "NSX-9 MFD",
+					"ManCode": 1857,
+					"ProductCode": 22679,
+					"ClassCode": 120,
+					"FunctionCode": 130,
+					"SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)"
+				},
+				{
+					"_Comment": "NSX-12   MFD",
+					"ManCode": 1857,
+					"ProductCode": 3794,
+					"ClassCode": 120,
+					"FunctionCode": 130,
+					"SWVersionFilter": "^\\w+\\s\\S+\\.(\\d+)\\.(\\d+)\\.(\\d+)\\.(\\d+)"
+				}
             ]
         },
         {
