@@ -769,14 +769,14 @@
             ]
         },
         {
-            "Version": "1.0.1.283",
+            "Version": "1.0.1.311",
             "Brand": "Simrad",
-            "ReleaseDate": "2021-08-24T00:00:00Z",
-            "File": "https://naiad-ota.s3.ap-southeast-2.amazonaws.com/naiad_imx8mp-ota-20210824.zip",
-            "Size": 967073891,
-            "sha1": "08cce0bdf1cde8d8447c2e3c0670017ca4bf954d",
+            "ReleaseDate": "2021-09-07T00:00:00Z",
+            "File": "https://naiad-ota.s3.ap-southeast-2.amazonaws.com/naiad_imx8mp-ota-20210907.zip",
+            "Size": 961332349,
+            "sha1": "9c0bea258ad5b5a6516bbaa5e732e47463493ba2",
             "_Comment": "NSX",
-            "AppVersion": "1.0.1.283",
+            "AppVersion": "1.0.1.311",
             "Models": [
                 "NSX-7",
                 "NSX-9",
